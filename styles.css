@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+  }
+  
+  .newsAndLoginForm {
+      background-color: rgb(203, 237, 170);
+      height: 1000px;
+      width: 100%;
+  }
+  
+  .loginForm {
+      background-color: white;
+      border-radius: 15px;
+      width: 300px;
+      height: 600px;
+      position: absolute;
+      top: 35px;
+      margin-left: 75px;
+  }
+  
+  .logo {
+      padding-top: 10px;
+      text-align: center;
+      color: rgb(5, 149, 5)
+  }
